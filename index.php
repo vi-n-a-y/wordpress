@@ -7,6 +7,7 @@
 </head>
 <body>
     <h1>PHP file</h1>
+    <h2>php my admin</h2>
 </body>
 </html>
 
